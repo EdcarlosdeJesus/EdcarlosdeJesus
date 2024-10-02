@@ -1,11 +1,9 @@
 <h1 align="center">oi 👋, Eu Ed carlos de Jesus</h1>
 <h3 align="center">Apaixonado por tecnologia</h3>
 
-- 🔭Atualmente estudo analise e visualização de dados. **Microsoft Power BI para Business Intelligence e Data Science**
-
 - 🌱 Finalizando Faculdade **Cibersegurança**
 
-- 💬 Me pergunte sobre **SQL,Power BI,Execel e Python**
+- 💬 Foco em Blue team  
 
 - 📫 Você me acha através do e-mail **edcarlosdejesus1@gmail.com**
 
