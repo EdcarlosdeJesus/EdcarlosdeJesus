@@ -1,5 +1,6 @@
 <h1 align="center">oi 👋, Eu Ed carlos de Jesus</h1>
 <h3 align="center">Apaixonado por tecnologia</h3>
+<a href="www.linkedin.com/in/ed-carlos-de-jesus-37a2831a0"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 - 🌱 Finalizando Faculdade **Cibersegurança**
 
