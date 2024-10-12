@@ -13,8 +13,8 @@
 ## Objectivo
 Minha jornada pela tecnologia me levou a desenvolver uma paixão pela segurança cibernética, e agora estou ansioso para fazer a transição para essa área, visando especificamente ingressar em um Centro de Operações de Segurança (SOC) como Analista de Nível 1.
 
-## Hbailidades
-| Hbailidades                                   | Projetos         |
+## Habilidades
+| Habilidades                                   | Projetos         |
 |-----------------------------------------------|----------------------------|
 |      Network Analysis                         | <a> Projetos de Análise de Rede </a>|
 |                                               | <a>Detection Lab</a>|
