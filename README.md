@@ -16,7 +16,7 @@ Minha jornada pela tecnologia me levou a desenvolver uma paixão pela segurança
 ## Skills
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-|      Network Analysis                         | <a>Detection Lab</a>|
+|      Network Analysis                         | <a> Projetos de Análise de Rede </a>|
 |                                               | <a>Detection Lab</a>|
 |                                               | SOC Automation Lab|
 
