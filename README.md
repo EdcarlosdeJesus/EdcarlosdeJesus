@@ -16,7 +16,7 @@ Minha jornada pela tecnologia me levou a desenvolver uma paixão pela segurança
 ## Habilidades
 | Habilidades                                   | Projetos         |
 |-----------------------------------------------|----------------------------|
-|      Network Analysis                         | <a> Projetos de Análise de Rede </a>|
+|      Network Analysis                         | <a href ="https://github.com/EdcarlosdeJesus/Projetos-de-Analise-de-Rede"> Projetos de Análise de Rede </a>|
 |                                               | <a>Detection Lab</a>|
 |                                               | SOC Automation Lab|
 
