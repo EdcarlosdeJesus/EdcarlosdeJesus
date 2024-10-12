@@ -7,7 +7,7 @@
 
 - 📫 Você me acha através do e-mail **edcarlosdejesus1@gmail.com**
 
-- 📄 Minhas experiências e competências [linkedin.com/in/ed-carlos-de-jesus-37a2831a0](linkedin.com/in/ed-carlos-de-jesus-37a2831a0)
+- 📄 Minhas experiências e competências www.linkedin.com/in/ed-carlos-de-jesus-37a2831a0
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
