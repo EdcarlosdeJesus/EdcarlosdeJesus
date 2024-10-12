@@ -10,6 +10,42 @@
 
 - 📄 Minhas experiências e competências www.linkedin.com/in/ed-carlos-de-jesus-37a2831a0
 
+## Objectivo
+Minha jornada pela tecnologia me levou a desenvolver uma paixão pela segurança cibernética, e agora estou ansioso para fazer a transição para essa área, visando especificamente ingressar em um Centro de Operações de Segurança (SOC) como Analista de Nível 1.
+
+## Skills
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+|                                               | <a>Detection Lab</a>|
+|                                               | <a>Detection Lab</a>|
+|                                               | SOC Automation Lab|
+
+### Network
+<div>
+<img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+</div>
+
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ed-carlos-de-jesus-37a2831a0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ed-carlos-de-jesus-37a2831a0" height="30" width="40" /></a>
@@ -17,18 +53,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p > </p> 
-
-<!---
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edcarlosdejesus&show_icons=true&locale=en&layout=compact" alt="edcarlosdejesus" /></p>
-
-
-- 👋 Hi, Eu sou Edcarlos de Jesus
-- 👀 I’m interested in Tecnologia / Analise de Dados
-- 🌱 I’m currently learning Analise de Dados
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 
 EdcarlosdeJesus/EdcarlosdeJesus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
