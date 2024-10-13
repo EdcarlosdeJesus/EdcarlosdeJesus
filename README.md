@@ -14,7 +14,7 @@
 Minha jornada pela tecnologia me levou a desenvolver uma paixão pela segurança cibernética, e agora estou ansioso para fazer a transição para essa área, visando especificamente ingressar em um Centro de Operações de Segurança (SOC) como Analista de Nível 1.
 
 ## Portfolio
-  Este é o meu portfólio de segurança cibernética,estou ansioso para ingressar em uma organização com visão de futuro, onde minhas habilidades e entusiasmo pela segurança possam causar um impacto significativo.\
+  Este é o meu portfólio de segurança cibernética,estou ansioso para ingressar em uma organização com visão de futuro, onde minhas habilidades e entusiasmo pela segurança possam causar um impacto significativo.
 
 # Visão geral do projeto
 |        Projeto         |     Habilidades     | Ferramentas     | Link
