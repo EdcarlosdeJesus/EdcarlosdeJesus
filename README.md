@@ -13,7 +13,7 @@
 ## Objectivo
 Minha jornada pela tecnologia me levou a desenvolver uma paixão pela segurança cibernética, e agora estou ansioso para fazer a transição para essa área, visando especificamente ingressar em um Centro de Operações de Segurança (SOC) como Analista de Nível 1.
 
-## Habilidades
+## Portfolio
 | Habilidades                                   | Projetos         |
 |-----------------------------------------------|----------------------------|
 |      Network Analysis                         | <a href ="https://github.com/EdcarlosdeJesus/Projetos-de-Analise-de-Rede"> Projetos de Análise de Rede </a>|
