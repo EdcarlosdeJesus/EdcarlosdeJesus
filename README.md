@@ -4,7 +4,7 @@
 
 - 🌱 Finalizando Faculdade **Cibersegurança**
 
-- 💬 Foco em Blue team  
+- 💬 Foco em Blue team - Analista Soc
 
 - 📫 Você me acha através do e-mail **edcarlosdejesus1@gmail.com**
 
