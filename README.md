@@ -20,7 +20,7 @@ Minha jornada pela tecnologia me levou a desenvolver uma paixão pela segurança
 |        Projeto         |       | Link
 |------------------------|-------|-----------------|
 |      Network Analysis  |       | <a href ="https://github.com/EdcarlosdeJesus/Projetos-de-Rede"> Projetos de Rede </a>|
-|      Red Team          |       |<a>Desafios Bootcamp</a> |    
+|      Desafios Bootcamp |       | <a href ="https://github.com/EdcarlosdeJesus/cibersecurity-desafio-phishing">Criando um Phishing com Kali Linux</a>|    
 |                        |       |
 
 ## Ferramentas
@@ -32,8 +32,8 @@ Minha jornada pela tecnologia me levou a desenvolver uma paixão pela segurança
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="" />
+    <img src="https://www.google.com/imgres?q=kali%20linux&imgurl=https%3A%2F%2Fwww.kali.org%2Fimages%2Fnotebook-kali-2024.1.jpg&imgrefurl=https%3A%2F%2Fwww.kali.org%2F&docid=YtLQ4KA6OHsrcM&tbnid=4B7ugEyFKS5qNM&vet=12ahUKEwj6y-7XuZiKAxW7p5UCHYnoHR0QM3oECBYQAA..i&w=1920&h=1080&hcb=2&itg=1&ved=2ahUKEwj6y-7XuZiKAxW7p5UCHYnoHR0QM3oECBYQAA" />
 </div>
 
 
