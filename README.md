@@ -17,11 +17,11 @@ Minha jornada pela tecnologia me levou a desenvolver uma paixão pela segurança
   Este é o meu portfólio de segurança cibernética,estou ansioso para ingressar em uma organização com visão de futuro, onde minhas habilidades e entusiasmo pela segurança possam causar um impacto significativo.
 
 # Visão geral do projeto
-|        Projeto         |     Habilidades     | Ferramentas     | Link
-|------------------------|---------------------|-----------------|------ 
-|      Network Analysis  |                     |                 | <a href ="https://github.com/EdcarlosdeJesus/Projetos-de-Rede"> Projetos de Rede </a>|
-|                        |                     |                 |<a>Desafios Bootcamp</a> |    
-|                        |                     |                 |
+|        Projeto         |       | Link
+|------------------------|-------|-----------------|
+|      Network Analysis  |       | <a href ="https://github.com/EdcarlosdeJesus/Projetos-de-Rede"> Projetos de Rede </a>|
+|                        |       |<a>Desafios Bootcamp</a> |    
+|                        |       |
 
 ## Ferramentas
 
