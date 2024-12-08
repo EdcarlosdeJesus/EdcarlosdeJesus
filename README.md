@@ -25,15 +25,15 @@ Minha jornada pela tecnologia me levou a desenvolver uma paixão pela segurança
 
 ## Ferramentas
 
-### Network
+ 
 <div>
 <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 </div>
 
-### SIEM
+ 
 <div>
-    <img src="" />
-    <img src="https://www.google.com/imgres?q=kali%20linux&imgurl=https%3A%2F%2Fwww.kali.org%2Fimages%2Fnotebook-kali-2024.1.jpg&imgrefurl=https%3A%2F%2Fwww.kali.org%2F&docid=YtLQ4KA6OHsrcM&tbnid=4B7ugEyFKS5qNM&vet=12ahUKEwj6y-7XuZiKAxW7p5UCHYnoHR0QM3oECBYQAA..i&w=1920&h=1080&hcb=2&itg=1&ved=2ahUKEwj6y-7XuZiKAxW7p5UCHYnoHR0QM3oECBYQAA" />
+    <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
 </div>
 
 
