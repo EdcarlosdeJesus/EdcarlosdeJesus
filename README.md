@@ -20,7 +20,7 @@ Minha jornada pela tecnologia me levou a desenvolver uma paixão pela segurança
 |        Projeto         |     Habilidades     | Ferramentas     | Link
 |------------------------|---------------------|-----------------|------ 
 |      Network Analysis  |                     |                 | <a href ="https://github.com/EdcarlosdeJesus/Projetos-de-Rede"> Projetos de Rede </a>|
-|                        |                     |                 |<a>Detection Lab</a> |    
+|                        |                     |                 |<a>Desafios Bootcamp</a> |    
 |                        |                     |                 |
 
 ## Ferramentas
