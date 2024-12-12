@@ -27,7 +27,7 @@ Minha jornada pela tecnologia me levou a desenvolver uma paixão pela segurança
 
  
 <div>
-<img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </div>
 
  
