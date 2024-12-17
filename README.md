@@ -21,7 +21,7 @@ Minha jornada pela tecnologia me levou a desenvolver uma paixão pela segurança
 |------------------------|-------|-----------------|
 |      Network Analysis  |       | <a href ="https://github.com/EdcarlosdeJesus/Projetos-de-Rede"> Projetos de Rede </a>|
 |      Desafios Bootcamp |       | <a href ="https://github.com/EdcarlosdeJesus/Projetos-Dio.me/blob/main/README.md">Bootcamp Santander2024</a>|    
-|      Analista Soc      |       |<a href ="https://github.com/EdcarlosdeJesus/tryhackme-Soc/blob/main/README.md" Estudos e Labs sobre Soc</a>|
+|      Analista Soc      |       |<a href ="https://github.com/EdcarlosdeJesus/tryhackme-Soc/blob/main/README.md"> Estudos e Labs sobre Soc</a>|
 
 ## Ferramentas
 
